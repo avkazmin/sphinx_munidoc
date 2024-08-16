@@ -100,7 +100,7 @@
 
    otvet
 
-   .. toctree::
+.. toctree::
    :maxdepth: 1
    :caption: Муниципальный округ
 
