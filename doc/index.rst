@@ -93,3 +93,9 @@
    :caption: Совещания
 
    sov
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Общественная приемная
+
+   otvet
