@@ -99,3 +99,9 @@
    :caption: Общественная приемная
 
    otvet
+
+   .. toctree::
+   :maxdepth: 1
+   :caption: Муниципальный округ
+
+   munokrug
